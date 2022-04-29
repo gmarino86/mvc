@@ -1,0 +1,75 @@
+.footer {
+    height: 50px;
+    line-height: 50px;
+    margin-top: 16px;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: #ededed;
+    z-index: 100;
+}
+
+.error {
+    margin: 10px 0;
+}
+
+.tablaPosts {
+    margin-bottom: 70px;
+}
+
+.main-content {
+    padding-top: 4.5rem !important;
+}
+
+.btnEliminarPost{
+    display: block !important;
+}
+
+.paddingPostBottom {
+    padding-bottom: 5rem!important;
+}
+
+.postCommentName {
+    font-size: 1rem;
+    margin: 0;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+.postComment {
+    font-size: .7rem;
+    margin: 0;
+}
+
+.fontSize5 {
+    font-size: .7rem !important;
+}
+
+.postImage {
+    width: 100%;
+    margin: auto;
+}
+
+.btnDivFav {
+    bottom: 10px;
+    position: absolute;
+    left: 50%;
+    margin-left: -52px;
+}
+
+
+.form-fila {
+    margin-bottom: 1em;
+}
+
+.form-fila label {
+    display: block;
+    margin-bottom: .5rem;
+    font-weight: 700;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .5rem;
+}
